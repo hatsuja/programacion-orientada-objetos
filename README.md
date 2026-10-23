@@ -30,11 +30,13 @@ El código fuente está estructurado bajo una arquitectura en capas. Puede acced
     * 📄 [`Planilla.java`](./ape/domain/Planilla.java)
     * 📄 [`Ecuacion.java`](./ape/domain/Ecuacion.java)
     * 📄 [`Fraccion.java`](./ape/domain/Fraccion.java)
+    * 📄 [`CuentaBancaria.java`](./ape/domain/CuentaBancaria.java)
 
   * 📂 **[`view/`](./ape/view/)** (Capa de Vista / Ejecutables de consola)
     * 📄 [`PlanillaExecutor.java`](./ape/view/PlanillaExecutor.java)
     * 📄 [`EcuacionExecutor.java`](./ape/domain/EcuacionExecutor.java)
     * 📄 [`FraccionEjecutor.java`](./ape/domain/FraccionEjecutor.java)
+    * 📄 [`CuentaExecutor.java`](./ape/domain/CuentaExecutor.java)
 
 
 ---
