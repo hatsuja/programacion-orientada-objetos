@@ -28,10 +28,10 @@ El código fuente está estructurado bajo una arquitectura en capas. Puede acced
 * 📂 **[`ape/`](./ape/)**
   * 📂 **[`domain/`](./ape/domain/)** (Capa de Dominio / Lógica de negocio)
     * 📄 [`Planilla.java`](./ape/domain/Planilla.java)
-    * 📄 [`Punto.java`](./ape/domain/Punto.java)
+
   * 📂 **[`view/`](./ape/view/)** (Capa de Vista / Ejecutables de consola)
     * 📄 [`PlanillaExecutor.java`](./ape/view/PlanillaExecutor.java)
-    * 📄 [`PuntoExecutor.java`](./ape/view/PuntoExecutor.java)
+
 
 ---
 
