@@ -26,7 +26,7 @@
 El código fuente está estructurado bajo una arquitectura en capas. Puede acceder a los archivos a continuación:
 
 * 📂 **[`ape/`](./ape/)**
-  * 📂 **[`domain/`](./ape/domain/)** (Capa de Dominio / Lógica de negocio)
+  * 📂 **[`domain/`](./ape/domain/)** (Capa de Dominio / Lógica)
     * 📄 [`Planilla.java`](./ape/domain/Planilla.java)
 
   * 📂 **[`view/`](./ape/view/)** (Capa de Vista / Ejecutables de consola)
