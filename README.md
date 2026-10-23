@@ -23,13 +23,19 @@
 
 ## 📁 Estructura
 
-El código fuente se encuentra organizado dentro de la carpeta [`ape/`](./ape/) bajo una arquitectura en capas:
+El código fuente está estructurado bajo una arquitectura en capas. Puede acceder a los archivos a continuación:
 
-```text
-ape/
-├── domain/
-│   ├── Planilla.java
-│   └── Punto.java
-└── view/
-    ├── PlanillaExecutor.java
-    └── PuntoExecutor.java
+* 📂 **[`ape/`](./ape/)**
+  * 📂 **[`domain/`](./ape/domain/)** (Capa de Dominio / Lógica de negocio)
+    * 📄 [`Planilla.java`](./ape/domain/Planilla.java)
+    * 📄 [`Punto.java`](./ape/domain/Punto.java)
+  * 📂 **[`view/`](./ape/view/)** (Capa de Vista / Ejecutables de consola)
+    * 📄 [`PlanillaExecutor.java`](./ape/view/PlanillaExecutor.java)
+    * 📄 [`PuntoExecutor.java`](./ape/view/PuntoExecutor.java)
+
+---
+
+### 🔗 Acceso a carpetas
+
+- 📁 **[Ir a la carpeta Domain (`ape/domain`)](./ape/domain/)**: Contiene la lógica
+- 📁 **[Ir a la carpeta View (`ape/view`)](./ape/view/)**: Contiene las clases ejecutables para interactuar con la consola
