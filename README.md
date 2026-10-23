@@ -1,4 +1,4 @@
-<img width="398" height="400" alt="image" src="https://github.com/user-attachments/assets/dcd89bdf-cbd2-4e31-87bc-32f1056e3b18" />
+<p align="center"><img width="398" height="400" alt="image" src="https://github.com/user-attachments/assets/dcd89bdf-cbd2-4e31-87bc-32f1056e3b18" />
 
 
 # <p align="center"> Universidad Nacional De Loja</p>
