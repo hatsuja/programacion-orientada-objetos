@@ -14,6 +14,6 @@
 * **Asignatura:** Programación Orientada a Objetos
 * **Integrantes:**
   * Juan Pablo Jumbo Orellana
-  * 
+  * Willy Javier Ramirez Medina
   * 
   * 
