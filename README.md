@@ -9,12 +9,27 @@
 
 ## 🏫 Información Institucional
 
-* **Institución:** Universidad Nacional de Loja
-* **Facultad:** Energía, las Industrias y los Recursos Naturales no Renovables
-* **Carrera:** Computación
-* **Asignatura:** Programación Orientada a Objetos
-* **Integrantes:**
+- **Institución:** Universidad Nacional de Loja
+- **Facultad:** Energía, las Industrias y los Recursos Naturales no Renovables
+- **Carrera:** Computación
+- **Asignatura:** Programación Orientada a Objetos
+- **Integrantes:**
   * Juan Pablo Jumbo Orellana
   * Willy Javier Ramirez Medina
-  * 
-  * 
+  * Josselin Estefania Nero Fernandez 
+  * Wilson Joel Guevara Moncada
+
+---
+
+## 📁 Estructura
+
+El código fuente se encuentra organizado dentro de la carpeta [`ape/`](./ape/) bajo una arquitectura en capas:
+
+```text
+ape/
+├── domain/
+│   ├── Planilla.java
+│   └── Punto.java
+└── view/
+    ├── PlanillaExecutor.java
+    └── PuntoExecutor.java
